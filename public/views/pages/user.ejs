@@ -1,0 +1,20 @@
+<!--
+*
+* public/views/pages/user.ejs
+*
+-->
+
+<%- include ../partials/header.ejs %>
+
+<div class="wrapper">
+  <form>
+    <label for="player-name-input">Please enter your player name:</label>
+    <input type="text" id="player-name-input">
+    <input type="submit" id="player-name-submit" value="Submit">
+  </form>
+  <small id="name-error"></small>
+</div>
+
+<div id="canvas-container"></div>
+
+<%- include ../partials/footer.ejs %>
