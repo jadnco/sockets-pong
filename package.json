@@ -1,7 +1,7 @@
 {
   "name": "Pong",
   "version": "1.0.0",
-  "description": "Pong game for CS32SIB final project",
+  "description": "Classic two player pong game",
   "main": "server.js",
   "dependencies": {
     "ejs": "^2.2.3",
