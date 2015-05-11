@@ -1,6 +1,6 @@
 # Pong
 
-Classic two player *Pong* game written with [node.js](http://nodejs.org) & [p5.js](http://p5js.org). This was the final project for my semester 1 computer science class.
+Classic two player *Pong* game written with [node.js](http://nodejs.org) & [p5.js](http://p5js.org).
 
 Screenshots:
 
